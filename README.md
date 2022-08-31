@@ -22,5 +22,6 @@ Archivos agregados durante el desarrollo, por ejemplo, archivos binarios de cód
 
 Información de configuración, como configuración de entorno y dependencias.
 
+ flujo de trabajo
 ![flujo](https://user-images.githubusercontent.com/100426946/187731047-ff529c6f-1766-40a4-802b-03960c34c870.png)
 
