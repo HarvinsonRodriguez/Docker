@@ -30,3 +30,16 @@ Una aplicación se compone de sus propios servicios, además de bibliotecas adic
  
 ![flujo](https://user-images.githubusercontent.com/100426946/187731047-ff529c6f-1766-40a4-802b-03960c34c870.png)
 
+COMANDO	DESCRIPCIÓN
+docker build	Descripción. El comando docker build crea imágenes Docker a partir de un Dockerfile y un "contexto". El contexto de una compilación es el conjunto de archivos ubicados en la RUTA o URL especificada. El proceso de compilación puede hacer referencia a cualquiera de los archivos en el contexto. Por ejemplo, su compilación puede usar una instrucción COPY para hacer referencia a un archivo en el contexto...
+
+docker run	
+docker start	
+docker rmi	
+docker stop	
+docker network rm	
+docker images	
+docker ps –a	
+docker network ls	
+![image](https://user-images.githubusercontent.com/100426946/187738670-7ece0a7c-5f19-43f1-a11f-626f9e7bd0c3.png)
+
