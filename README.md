@@ -21,4 +21,5 @@ Una selección de sistema operativo, por ejemplo, una distribución de Linux, Wi
 Archivos agregados durante el desarrollo, por ejemplo, archivos binarios de código fuente y aplicación.
 
 Información de configuración, como configuración de entorno y dependencias.
+![flujo](https://user-images.githubusercontent.com/100426946/187731047-ff529c6f-1766-40a4-802b-03960c34c870.png)
 
