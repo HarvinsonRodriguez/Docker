@@ -68,3 +68,9 @@ Desde el repositorio de Ubuntu
 Sin embargo, antes deberías de echar un vistazo a los requisitos del sistema del motor de Docker.
 
 # Requerimientos de sistema
+
+Para instalar la versión actual de Docker en la distribución de Ubuntu es necesaria la versión de 64 bits de una de las siguientes versiones de Ubuntu:
+
+Yakkety 16.10,
+Xenial 16.04 (LTS),
+Trusty 14.04 (LTS).
