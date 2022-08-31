@@ -60,6 +60,11 @@ Gentoo Linux,
 
 A continuación se muestra el proceso de instalación de un motor de Docker con Ubuntu, la popular distribución de Linux. Para conocer cómo instalar Docker en otras plataformas, accede a estas instrucciones de documentación de Docker en inglés.
 
+Dependiendo de las exigencias y requisitos que se deben cumplir, puedes instalar Docker en el sistema Ubuntu de tres formas diferentes:
 
+Manualmente con el paquete DEB
+Desde el repositorio de Docker
+Desde el repositorio de Ubuntu
+Sin embargo, antes deberías de echar un vistazo a los requisitos del sistema del motor de Docker.
 
-
+# Requerimientos de sistema
