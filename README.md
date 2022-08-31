@@ -82,8 +82,5 @@ En sistemas productivos se recomienda la instalación de productos de software c
 
 En el siguiente tutorial de Docker se usa la versión UbuntuXenial 16.04 (LTS), aunque se pueden seguir los mismos pasos con Yakkety 16.10. Se recomienda a los usuarios de Trusty 14.04 (LTS) que antes de proceder a instalar Docker instalen los paqueteslinux-image-extra-*, ya que estos permiten que el motor de Docker tenga acceso al driver de almacenamiento AUFS.
 
-El paquete integrado Manager APT(Advanced Packaging Tool) ofrece un método sencillo para proveer al sistema Linux con actualizaciones. Para instalar el paquete adicional paraTrusty 14.04 hay que seguir los siguientes pasos:
-
-
 
 
