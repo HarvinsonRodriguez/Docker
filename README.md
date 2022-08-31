@@ -39,4 +39,22 @@ docker build	Descripción. El comando docker build crea imágenes Docker a parti
 ![image](https://user-images.githubusercontent.com/100426946/187739152-4a3ac2b4-b06a-4a1f-bef6-d675e501b9c9.png)
 ![image](https://user-images.githubusercontent.com/100426946/187739245-f799891a-f06f-4285-bc65-9e8b32411613.png)
 
+# Instalar el motor de Docker
 
+Aunque en un principio Docker solo se usaba en las distribuciones de Linux, la versión actual del motor de contenedores se caracteriza por una gran independencia de plataforma. Hoy existen paquetes de instalación para Microsoft Windows y macOS, así como para servicios en la nube como Amazon Web Services (AWS)‎ y Microsoft Azur. Entre las distribuciones de Linux que soporta encontramos:
+
+CentOS
+Debian
+Fedora
+Oracle Linux
+Red Hat Enterprise Linux
+Ubuntu
+openSUSE
+SUSE Linux Enterprise
+
+Además hay distribuciones de Docker gestionadas por la comunidad para:
+
+Arch Linux
+CRUX Linux
+Gentoo Linux
+A continuación se muestra el proceso de instalación de un motor de Docker con Ubuntu, la popular distribución de Linux. Para conocer cómo instalar Docker en otras plataformas, accede a estas instrucciones de documentación de Docker en inglés.
