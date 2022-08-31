@@ -33,8 +33,10 @@ Una aplicación se compone de sus propios servicios, además de bibliotecas adic
 COMANDO	DESCRIPCIÓN
 docker build	Descripción. El comando docker build crea imágenes Docker a partir de un Dockerfile y un "contexto". El contexto de una compilación es el conjunto de archivos ubicados en la RUTA o URL especificada. El proceso de compilación puede hacer referencia a cualquiera de los archivos en el contexto. Por ejemplo, su compilación puede usar una instrucción COPY para hacer referencia a un archivo en el contexto...
 
+# Descripción Para Los Comandos
+
 ![image](https://user-images.githubusercontent.com/100426946/187739072-3694f8d2-d28b-4ede-8d96-53056722f456.png)
 ![image](https://user-images.githubusercontent.com/100426946/187739152-4a3ac2b4-b06a-4a1f-bef6-d675e501b9c9.png)
 ![image](https://user-images.githubusercontent.com/100426946/187739245-f799891a-f06f-4285-bc65-9e8b32411613.png)
 
-# Descripción Para Los Comandos
+
