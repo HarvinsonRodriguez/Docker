@@ -85,3 +85,11 @@ En el siguiente tutorial de Docker se usa la versión UbuntuXenial 16.04 (LTS), 
 # imagen de DOCKER
 ![WhatsApp Image 2022-09-15 at 4 43 48 PM](https://user-images.githubusercontent.com/100426946/190514821-ee042909-c518-4925-893e-6469138d238b.jpeg)
 
+# MENU DE DOCKER
+![image](https://user-images.githubusercontent.com/100426946/190516063-4c20d589-281e-4569-aec3-f861f3a01983.png)
+
+
+# crear Archivos DOCKER
+Con Docker Compose podríamos crear un archivo de configuración en formato yaml y juntar los diferentes servicios y las opciones específicas para ejecutarlos de una sola vez. Como todos los cambios se almacenan en un archivo de configuración, la ejecución solo es aplicable a contenedores en un único host de Docker.
+tambien cuando Cuando se usa una pila de aplicación LEMP, por ejemplo, con PHP, Nginx, MySQL y el framework de Laravel, Docker puede simplificar considerablemente el proceso de configuración.
+
