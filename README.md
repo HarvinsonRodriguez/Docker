@@ -89,7 +89,8 @@ En el siguiente tutorial de Docker se usa la versión UbuntuXenial 16.04 (LTS), 
 ![image](https://user-images.githubusercontent.com/100426946/190516063-4c20d589-281e-4569-aec3-f861f3a01983.png)
 
 
-# crear Archivos DOCKER
+# Crear Archivos DOCKER
 Con Docker Compose podríamos crear un archivo de configuración en formato yaml y juntar los diferentes servicios y las opciones específicas para ejecutarlos de una sola vez. Como todos los cambios se almacenan en un archivo de configuración, la ejecución solo es aplicable a contenedores en un único host de Docker.
 tambien cuando Cuando se usa una pila de aplicación LEMP, por ejemplo, con PHP, Nginx, MySQL y el framework de Laravel, Docker puede simplificar considerablemente el proceso de configuración.
+se dice que la clave de la simplicidad en esta instalación es Docker Compose, que le permite crear un grupo de contenedores de Docker definidos en un solo archivo mediante un comando.
 
